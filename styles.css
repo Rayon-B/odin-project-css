@@ -95,3 +95,31 @@ a {
 .btn a {
     color: #f9faf8;
 }
+
+.body-top2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.body-top2 h2 {
+    color: #1F2937;
+}
+
+.pic1, 
+.pic2, 
+.pic3,
+.pic4, img {
+    border-color: #3883f6;
+    border: #3883f6;
+    border-width: 2px;
+    border-radius: 8px;
+    max-width: 70px;
+    max-height: 90px;
+}
+
+.bt2-contents {
+    display: flex;
+    gap: 3rem;
+}
