@@ -143,10 +143,25 @@ a {
 
 .body-container-2-a {
     display: flex;
-    flex: 1 1 auto;
     width: 1200px;
     gap: 5rem;
     justify-content: center;
     text-align: center;
 }
+
+.body-container-3 {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 100px 360px;
+    background-color: #e5e7eb;
+    align-items: center;
+    justify-content: center;
+}
+
+.bc3-p1,
+.bc3-p2 {
+    color: #1F2937;
+}
+
 
