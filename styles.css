@@ -107,10 +107,7 @@ a {
     color: #1F2937;
 }
 
-.body-container-2-a-a,
-.body-container-2-a-b,
-.body-container-2-a-c,
-.body-container-2-a-d {
+.body-container-2-a-a, .body-container-2-a-b, .body-container-2-a-c, .body-container-2-a-d {
     display: flex;
     flex-direction: column;
     justify-content: center;
