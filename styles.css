@@ -180,6 +180,7 @@ a {
     justify-content: center;
     padding: 5px 60px;
     border-radius: 7px;
+    margin: 80px;
 }
 
 .body-container-4-b button{
@@ -196,4 +197,9 @@ a {
 .body-container-4-b a{
     color: #f9faf8;
     
+}
+
+.footer {
+    background: #1F2937;
+    color: #f9faf8;
 }
