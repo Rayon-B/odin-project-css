@@ -165,3 +165,35 @@ a {
 }
 
 
+.body-container-4 {
+    display: flex;
+    gap: 20rem;
+    justify-content: center;
+}
+
+.body-container-4-bg {
+    color: #f9faf8;
+    background-color: #3883f6;
+    display: flex;
+    gap: 20rem;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 60px;
+    border-radius: 7px;
+}
+
+.body-container-4-b button{
+    background-color: #3883f6;
+    margin: 0;
+    padding: 9px 20px;
+    border: 1px solid #f9faf8;
+    font-weight: 300;
+    border-radius: 10px;
+    font-size: 16px;
+    
+}
+
+.body-container-4-b a{
+    color: #f9faf8;
+    
+}
